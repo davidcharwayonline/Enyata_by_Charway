@@ -1,0 +1,12 @@
+This is the assessment of an application programmed in NODE.JS, POSTGRESQL and EXPRESS by David Charway(Bsc.).
+
+****Accessing API Application****
+
+Main file URL - http://localhost:3000/
+List all Incidents - http://localhost:3000/enyata_by_charway/incidents
+List all Incidents per ID - http://localhost:3000/enyata_by_charway/incidents/{id}
+
+Contact Details:
+Call: +233 59 598 4027 
+Email: email@davidcharway.com 
+Portfolio: https://www.davidcharway.com
